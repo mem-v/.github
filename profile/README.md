@@ -2,3 +2,10 @@
 
 - Check out our [website](https://memv.ai)
 - Read our blog [The Memory Log by mem\[v\]](https://memv.ai/blog)
+- Follow us on [X](https://x.com/memvai)
+
+## Updates & Roadmap
+
+Stay up to date with the latest improvements:
+
+- [Changelog](https://docs.memv.ai/changelog/product-updates)
