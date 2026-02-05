@@ -4,6 +4,11 @@
 - Read our blog [The Memory Log by mem\[v\]](https://memv.ai/blog)
 - Follow us on [X](https://x.com/memvai)
 
+
+## Inspiration
+
+Inspired by [Graphiti](https://github.com/getzep/graphiti) from Zep.
+
 ## Updates & Roadmap
 
 Stay up to date with the latest improvements:
